@@ -6,10 +6,17 @@ In Unit II, students learn how to build machine learning models to make predicti
 Topic Covers:
 
 Introduction to machine learning and Scikit-learn API
+
 Regression, classification, & model selection (miniproject: ml)
+
 Feature engineering
+
 NLP and dimension reduction (miniproject: nlp)
+
 KNeighbors, clustering and ensemble models
+
 Support vector machines
+
 Time series analysis and anomaly detection
+
 Clustering
